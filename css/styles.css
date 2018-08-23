@@ -47,7 +47,6 @@ button:hover {
   font-weight: 700;
   font-size: inherit;
   text-transform: uppercase;
-  color: steelblue;
 }
 
 #container {
@@ -67,4 +66,10 @@ button:hover {
 .selected {
   background-color: steelblue;
   color: white;
+}
+.right {
+  color: green;
+}
+.wrong {
+  color: red;
 }
